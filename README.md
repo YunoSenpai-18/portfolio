@@ -5,12 +5,10 @@ This repository contains my responsive personal portfolio website, built using *
 ## Live Demo
 
 GitHub Pages URL:  
-`https://yourusername.github.io/portfolio/`  
-(Replace with your actual deployed link)
+`https://yunosenpai-18.github.io/portfolio/`
 
 Repository URL:  
-`https://github.com/YunoSenpai-18/portfolio.git`  
-(Replace with your actual repo link)
+`https://github.com/YunoSenpai-18/portfolio.git`
 
 ## Tech Stack
 
